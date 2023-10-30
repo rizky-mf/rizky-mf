@@ -2,11 +2,13 @@
    <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rizky+Maolana+Firdaus!;" />
 </h1>
+   
 <div>
- 
+ <h2>🐍 My Contributions 🐍</h2>
   <picture>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rizky-mf/rizky-mf/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
 
 <!-- ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rizky-mf&show_icons=true&theme=radical)
 -->
