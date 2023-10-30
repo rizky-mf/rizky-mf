@@ -12,6 +12,7 @@
 <!-- ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rizky-mf&show_icons=true&theme=radical)
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizky-mf&langs_count=10&layout=compact&theme=dark&card_width=500)](https://github.com/rizky-mf)
+<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rizky-mf&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <!--
 **rizky-mf/rizky-mf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,4 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
