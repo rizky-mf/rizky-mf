@@ -3,8 +3,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tatangdev/tatangdev/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tatangdev/tatangdev/output/github-snake.svg">
 </picture>
-
-### Hi there 👋
+<div align="center">
+   <h1 align="center">Hi there 👋</h1>
+<div>
 
 <!--
 **rizky-mf/rizky-mf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
