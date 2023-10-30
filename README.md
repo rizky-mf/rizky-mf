@@ -4,7 +4,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tatangdev/tatangdev/output/github-snake.svg">
 </picture>
 <div align="center">
-   <h1 align="center">Hi there 👋</h1>
+   <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rizky+Maolana+Firdaus!;" />
+</h1>
 <div>
   
 <!-- ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rizky-mf&show_icons=true&theme=radical)
