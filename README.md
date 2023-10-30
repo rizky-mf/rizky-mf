@@ -22,7 +22,7 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizky-mf&langs_count=10&layout=compact&theme=dark&card_width=500)](https://github.com/rizky-mf)
 </div>
 
-
+<!-- 
 <h3 align="left"> Language and Tools: </h3>
 <p align="left">
 <div align=center>
@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40">
   </a>
 </div>
-
+-->
 <!--
 **rizky-mf/rizky-mf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
