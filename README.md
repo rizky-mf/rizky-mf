@@ -5,7 +5,7 @@
 <div>
  
   <picture>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rizky-mf/rizky-mf/output/github-contribution-grid-snake.svg" />
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <!-- ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rizky-mf&show_icons=true&theme=radical)
