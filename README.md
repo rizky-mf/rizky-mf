@@ -7,8 +7,8 @@
    <h1 align="center">Hi there 👋</h1>
 <div>
   
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rizky-mf&show_icons=true&theme=radical)
-
+<!-- ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rizky-mf&show_icons=true&theme=radical)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizky-mf&langs_count=10&layout=compact&theme=dark&card_width=500)](https://github.com/rizky-mf)
 <!--
 **rizky-mf/rizky-mf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
